@@ -14,7 +14,7 @@ include_once ("ArbolProfundidades.php");
 class ControlGuiones extends Controlador {
 
 	/* *******************************************************************************************
-	 * CONSTRUCTOR
+	 * CONSTRUCTOR q40
 	 * ***************************************************************************************** */
 	
 	function __construct() {
